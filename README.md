@@ -6,3 +6,5 @@ For example: - I want to see dependencies between types in my project - I want t
 
 For sake of simplicity I’m interested in 3 scala object types: class, object, trait.
 
+Open metrics.html to see results. 
+
