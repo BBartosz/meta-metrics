@@ -58,5 +58,5 @@ If you want to modify your class structure you need to update json with data. To
 sbt run
 ```
 
-Open metrics.html to see results. 
+Open metrics.html to see results. Double click on the circle to see modal with object simple statistics.
 
