@@ -1,3 +1,7 @@
+
+![example](screenshot.png "Screenshot")
+
+
 Code review tool
 
 This is example usage of scalameta. I wanted to build some nice UI with some statistics about objects. 
