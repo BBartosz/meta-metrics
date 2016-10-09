@@ -1,6 +1,8 @@
 Code review tool
 
 This is example usage of scalameta. I wanted to build some nice UI with some statistics about objects. 
+UI is build with d3js from this example:
+http://bl.ocks.org/mbostock/1153292
 
 For example: - I want to see dependencies between types in my project - I want to see number of statements in specific type of object - I want to see type of object etc.
 
